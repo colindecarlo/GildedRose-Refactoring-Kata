@@ -1,0 +1,1751 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gilded Rose should foo 1`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 24,
+    "sellIn": 24,
+  },
+  Item {
+    "name": "foo",
+    "quality": 24,
+    "sellIn": 9,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 26,
+    "sellIn": 24,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 26,
+    "sellIn": 24,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 11,
+    "sellIn": 24,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 2`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 23,
+    "sellIn": 23,
+  },
+  Item {
+    "name": "foo",
+    "quality": 23,
+    "sellIn": 8,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 27,
+    "sellIn": 23,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 27,
+    "sellIn": 23,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 12,
+    "sellIn": 23,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 3`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 22,
+    "sellIn": 22,
+  },
+  Item {
+    "name": "foo",
+    "quality": 22,
+    "sellIn": 7,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 28,
+    "sellIn": 22,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 28,
+    "sellIn": 22,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 13,
+    "sellIn": 22,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 4`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 21,
+    "sellIn": 21,
+  },
+  Item {
+    "name": "foo",
+    "quality": 21,
+    "sellIn": 6,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 29,
+    "sellIn": 21,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 29,
+    "sellIn": 21,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 14,
+    "sellIn": 21,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 5`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 20,
+    "sellIn": 20,
+  },
+  Item {
+    "name": "foo",
+    "quality": 20,
+    "sellIn": 5,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 30,
+    "sellIn": 20,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 30,
+    "sellIn": 20,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 15,
+    "sellIn": 20,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 6`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 19,
+    "sellIn": 19,
+  },
+  Item {
+    "name": "foo",
+    "quality": 19,
+    "sellIn": 4,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 31,
+    "sellIn": 19,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 31,
+    "sellIn": 19,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 16,
+    "sellIn": 19,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 7`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 18,
+    "sellIn": 18,
+  },
+  Item {
+    "name": "foo",
+    "quality": 18,
+    "sellIn": 3,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 32,
+    "sellIn": 18,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 32,
+    "sellIn": 18,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 17,
+    "sellIn": 18,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 8`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 17,
+    "sellIn": 17,
+  },
+  Item {
+    "name": "foo",
+    "quality": 17,
+    "sellIn": 2,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 33,
+    "sellIn": 17,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 33,
+    "sellIn": 17,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 18,
+    "sellIn": 17,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 9`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 16,
+    "sellIn": 16,
+  },
+  Item {
+    "name": "foo",
+    "quality": 16,
+    "sellIn": 1,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 34,
+    "sellIn": 16,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 34,
+    "sellIn": 16,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 19,
+    "sellIn": 16,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 10`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 15,
+    "sellIn": 15,
+  },
+  Item {
+    "name": "foo",
+    "quality": 15,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 35,
+    "sellIn": 15,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 35,
+    "sellIn": 15,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 20,
+    "sellIn": 15,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 11`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 14,
+    "sellIn": 14,
+  },
+  Item {
+    "name": "foo",
+    "quality": 13,
+    "sellIn": -1,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 36,
+    "sellIn": 14,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 36,
+    "sellIn": 14,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 21,
+    "sellIn": 14,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 12`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 13,
+    "sellIn": 13,
+  },
+  Item {
+    "name": "foo",
+    "quality": 11,
+    "sellIn": -2,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 37,
+    "sellIn": 13,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 37,
+    "sellIn": 13,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 22,
+    "sellIn": 13,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 13`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 12,
+    "sellIn": 12,
+  },
+  Item {
+    "name": "foo",
+    "quality": 9,
+    "sellIn": -3,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 38,
+    "sellIn": 12,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 38,
+    "sellIn": 12,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 23,
+    "sellIn": 12,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 14`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 11,
+    "sellIn": 11,
+  },
+  Item {
+    "name": "foo",
+    "quality": 7,
+    "sellIn": -4,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 39,
+    "sellIn": 11,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 39,
+    "sellIn": 11,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 24,
+    "sellIn": 11,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 15`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 10,
+    "sellIn": 10,
+  },
+  Item {
+    "name": "foo",
+    "quality": 5,
+    "sellIn": -5,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 40,
+    "sellIn": 10,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 40,
+    "sellIn": 10,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 25,
+    "sellIn": 10,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 16`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 9,
+    "sellIn": 9,
+  },
+  Item {
+    "name": "foo",
+    "quality": 3,
+    "sellIn": -6,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 42,
+    "sellIn": 9,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 41,
+    "sellIn": 9,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 26,
+    "sellIn": 9,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 17`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 8,
+    "sellIn": 8,
+  },
+  Item {
+    "name": "foo",
+    "quality": 1,
+    "sellIn": -7,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 44,
+    "sellIn": 8,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 42,
+    "sellIn": 8,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 27,
+    "sellIn": 8,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 18`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 7,
+    "sellIn": 7,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -8,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 46,
+    "sellIn": 7,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 43,
+    "sellIn": 7,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 28,
+    "sellIn": 7,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 19`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 6,
+    "sellIn": 6,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -9,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 48,
+    "sellIn": 6,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 44,
+    "sellIn": 6,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 29,
+    "sellIn": 6,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 20`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 5,
+    "sellIn": 5,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -10,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 5,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 45,
+    "sellIn": 5,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 30,
+    "sellIn": 5,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 21`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 4,
+    "sellIn": 4,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -11,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 4,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 46,
+    "sellIn": 4,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 31,
+    "sellIn": 4,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 22`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 3,
+    "sellIn": 3,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -12,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 3,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 47,
+    "sellIn": 3,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 32,
+    "sellIn": 3,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 23`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 2,
+    "sellIn": 2,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -13,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 2,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 48,
+    "sellIn": 2,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 33,
+    "sellIn": 2,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 24`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 1,
+    "sellIn": 1,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -14,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 1,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 49,
+    "sellIn": 1,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 34,
+    "sellIn": 1,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 25`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -15,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 35,
+    "sellIn": 0,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 26`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -1,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -16,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -1,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -1,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 37,
+    "sellIn": -1,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 27`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -2,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -17,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -2,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -2,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 39,
+    "sellIn": -2,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 28`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -3,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -18,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -3,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -3,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 41,
+    "sellIn": -3,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 29`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -4,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -19,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -4,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -4,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 43,
+    "sellIn": -4,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 30`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -5,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -20,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -5,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -5,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 45,
+    "sellIn": -5,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 31`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -6,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -21,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -6,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -6,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 47,
+    "sellIn": -6,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 32`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -7,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -22,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -7,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -7,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 49,
+    "sellIn": -7,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 33`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -8,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -23,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -8,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -8,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -8,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 34`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -9,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -24,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -9,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -9,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -9,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 35`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -10,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -25,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -10,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -10,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -10,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 36`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -11,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -26,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -11,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -11,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -11,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 37`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -12,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -27,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -12,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -12,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -12,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 38`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -13,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -28,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -13,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -13,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -13,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 39`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -14,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -29,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -14,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -14,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -14,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 40`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -15,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -30,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -15,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -15,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -15,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 41`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -16,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -31,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -16,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -16,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -16,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 42`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -17,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -32,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -17,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -17,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -17,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 43`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -18,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -33,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -18,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -18,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -18,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 44`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -19,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -34,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -19,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -19,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -19,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 45`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -20,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -35,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -20,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -20,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -20,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 46`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -21,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -36,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -21,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -21,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -21,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 47`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -22,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -37,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -22,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -22,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -22,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 48`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -23,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -38,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -23,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -23,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -23,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 49`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -24,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -39,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -24,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -24,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -24,
+  },
+]
+`;
+
+exports[`Gilded Rose should foo 50`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -25,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -40,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -25,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -25,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -25,
+  },
+]
+`;
