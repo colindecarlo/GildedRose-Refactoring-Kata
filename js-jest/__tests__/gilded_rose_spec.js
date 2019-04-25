@@ -11,7 +11,7 @@ describe("Gilded Rose", function () {
       new Item("Aged Brie", 25, 25),
       new Item("Aged Brie", 25, 10),
     ]);
-    while (count < 50) {
+    while (count <= 50) {
       count++;
       const items = gildedRose.updateQuality();
       expect(items).toMatchSnapshot();
@@ -22,4 +22,25 @@ describe("Gilded Rose", function () {
     const gildedRose = new Shop();
     expect(gildedRose.items.length).toEqual(0)
   });
+
+  it('degrades conjured items twice as fast as regular items', () => {
+    const conjured = new Item('Conjured', 10, 25)
+    const gildedRose = new Shop([conjured]);
+    gildedRose.updateQuality();
+    expect(conjured.quality).toBe(23);
+  })
+
+  it('degrades conjured items twice as fast as regular items', () => {
+    const conjured = new Item('Conjured', -1, 25)
+    const gildedRose = new Shop([conjured]);
+    gildedRose.updateQuality();
+    expect(conjured.quality).toBe(21);
+  })
+
+  it.skip('degrades conjured items twice as fast as regular items', () => {
+    const conjured = new Item('Conjured', -1, 3)
+    const gildedRose = new Shop([conjured]);
+    gildedRose.updateQuality();
+    expect(conjured.quality).toBe(0);
+  })
 });

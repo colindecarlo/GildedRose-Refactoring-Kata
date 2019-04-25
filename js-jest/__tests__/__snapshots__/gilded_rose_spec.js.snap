@@ -1749,3 +1749,38 @@ Array [
   },
 ]
 `;
+
+exports[`Gilded Rose should foo 51`] = `
+Array [
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -26,
+  },
+  Item {
+    "name": "foo",
+    "quality": 0,
+    "sellIn": -41,
+  },
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 80,
+    "sellIn": 0,
+  },
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -26,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -26,
+  },
+  Item {
+    "name": "Aged Brie",
+    "quality": 50,
+    "sellIn": -26,
+  },
+]
+`;
