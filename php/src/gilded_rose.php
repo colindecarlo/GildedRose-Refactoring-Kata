@@ -56,9 +56,6 @@ class Item
 class Inventory
 {
     private $items;
-    /**
-     * @var StoreItem
-     */
     private $updateChain;
 
     public function __construct($items, StoreItem $updateChain)

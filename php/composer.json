@@ -1,0 +1,13 @@
+{
+    "name": "colin/php",
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    },
+    "authors": [
+        {
+            "name": "Colin DeCarlo",
+            "email": "c.decarlo@vehikl.com"
+        }
+    ],
+    "require": {}
+}
